@@ -1,0 +1,17 @@
+{
+  "name": "uncle",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@vue/cli": "^3.9.3",
+    "vue-cli-plugin-vue-uncle": "file:vue-uncle",
+    "xml-loader": "^1.2.1"
+  },
+  "license": "ISC"
+}
